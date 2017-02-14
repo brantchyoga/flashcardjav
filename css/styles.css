@@ -5,3 +5,11 @@ ul {
   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/4c/d0/a5/4cd0a541c00111cb84d736c0ceb04005.jpg");
   background-size: cover;
 }
+li:hover {
+  color:#1979b5;
+  text-decoration: underline;
+  text-shadow: 1px 1px black;
+}
+.ht {
+  height: 400px;
+}
